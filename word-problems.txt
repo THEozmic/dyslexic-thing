@@ -1,0 +1,21 @@
+1. Your team scored a total of 123 points.
+   67 points were scored in the first half.
+   How many were scored in the second half?
+
+2. Ada had a pack of 35 pencil crayons.
+   She gave 6 to her friend Theresa.
+   She gave 3 to her friend Bisi.
+   How many pencil crayons does Ada have left?
+
+3. A movie theatre has 25 rows of seats with 20 seats in each row.
+   How many seats are there in total?
+
+4. A bricklayer stacks bricks in 2 rows, with 10 bricks in each row.
+   On top of each row, there is a stack of 6 bricks.
+   How many bricks are there in total?
+
+5. If you have 4 pieces of candy split evenly into 2 bags, how many pieces of candy are in each bag?
+
+6. Melissa buys 2 packs of tennis balls for 12 naira in total.
+   All together, there are 6 tennis balls.
+   How much does 1 pack of tennis balls cost? How much does 1 tennis ball cost?
